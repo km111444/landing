@@ -1,0 +1,23 @@
+footer {
+  background: #2C2B2B;
+  padding: 50px;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+}
+
+footer .icon {
+  color: white;
+  align-items: center;
+}
+
+footer li {
+  list-style-type: none;
+  display: inline;
+}
+
+.list-inline {
+  padding: 0;
+}

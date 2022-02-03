@@ -1,0 +1,39 @@
+.banner {
+  background-image: url(images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  position: relative;
+}
+
+.banner .container {
+  width: 900px;
+  margin: auto;
+  margin-left: 30px;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 0 0 8px rgb(0 0 0 / 30%);
+  margin: 0 auto;
+}
+
+.banner p {
+  color: rgb(231, 229, 229);
+  text-shadow: 0 0 8px rgb(0 0 0 / 50%);
+  margin: 0 auto;
+}
+
+.btn-treehouse{
+  color: rgb(241, 235, 235);
+  background-color: #30d47a;
+  padding: 12px 30px;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 144px;
+}
+
+.btn-treehouse:hover{
+  background-color: #65d842;
+  transition: .4s;
+}
